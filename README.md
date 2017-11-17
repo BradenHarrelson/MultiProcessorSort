@@ -1,4 +1,4 @@
-# Sorting
+# MultiProcessorSort
 ## Overall Description
 Contains Serial and Parallel Version (openMPI) of the Quick-Sort algorithm. Used to sort a large amount of randomized numbers (up to 2^28). A performance analysis was performed to show display execution time, speed-up, and efficiency.
 
